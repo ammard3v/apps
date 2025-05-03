@@ -1,0 +1,2 @@
+/Users/ammard3v/Desktop/App/apitut/android/app/.cxx/Debug/1l1u4m3l/x86_64/CMakeFiles/edit_cache.dir
+/Users/ammard3v/Desktop/App/apitut/android/app/.cxx/Debug/1l1u4m3l/x86_64/CMakeFiles/rebuild_cache.dir
